@@ -1,0 +1,27 @@
+{
+  "name": "dsa-ts",
+  "version": "1.0.0",
+  "description": "My implementation of common algorithms and data structures written in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trongtai37/dsa-ts.git"
+  },
+  "keywords": [
+    "data-structure",
+    "algorithm",
+    "typescript"
+  ],
+  "author": "trongtai37",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trongtai37/dsa-ts/issues"
+  },
+  "homepage": "https://github.com/trongtai37/dsa-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}

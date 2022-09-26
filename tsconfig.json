@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "lib": [
+      "ES2015"
+    ],
+    "module": "ES2015",
+    "noImplicitThis": true,
+    "pretty": false,
+    "noImplicitReturns": true
+  }
+}
